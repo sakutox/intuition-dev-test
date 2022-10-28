@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580315018370",
+    "project_id": "intuituontest",
+    "storage_bucket": "intuituontest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580315018370:android:74e4f1e2dcdd1de610709b",
+        "android_client_info": {
+          "package_name": "com.example.intuitiondevtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580315018370-q2lgcq4afqqhmp085kt9h6j0ecfq5k7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCiWIiWxqSdw4iX9NjbNF8jm_w0d7GWnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580315018370-q2lgcq4afqqhmp085kt9h6j0ecfq5k7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -39,6 +39,7 @@ dependencies:
   cloud_firestore: ^4.0.2
   firebase_core: ^2.1.0
   carousel_slider: ^4.1.1
+  floating_bottom_navigation_bar: ^1.5.2
 
 dev_dependencies:
   flutter_test:
@@ -62,6 +63,18 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Barlow
+      fonts:
+        - asset: assets/fonts/BarlowCondensed-Bold.ttf
+    
+    - family: BarlowT
+      fonts:
+        - asset: assets/fonts/BarlowCondensed-Thin.ttf
 
   # To add assets to your application, add an assets section, like this:
   # assets:
