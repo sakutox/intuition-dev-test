@@ -1,4 +1,4 @@
-# intuition developer test
+# Intuition developer test
 This is a developer test for intuition studio.
 
 in this repository you'll find a test provided by intuition Studio in order to test developer skills, app based on renting or selling construction machinery, you can create users, list machinery and so on.
