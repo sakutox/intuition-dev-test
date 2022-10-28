@@ -1,16 +1,13 @@
-# intuitiondevtest
+# intuition developer test
+This is a developer test for intuition studio.
 
-A new Flutter project.
+in this repository you'll find a test provided by intuition Studio in order to test developer skills, app based on renting or selling construction machinery, you can create users, list machinery and so on.
 
-## Getting Started
+Dependencies used on the project: 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  provider: ^6.0.4
+  fluttertoast: ^8.1.1
+  cloud_firestore: ^4.0.2
+  firebase_core: ^2.1.0
+  carousel_slider: ^4.1.1
+  floating_bottom_navigation_bar: ^1.5.2
